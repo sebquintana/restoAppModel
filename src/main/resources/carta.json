@@ -1,0 +1,50 @@
+{"carta": {
+    "restaurant": "Resto del cubo",
+    "Menues": {
+        "menu": {
+        	"nombre": "ejecutivo",
+        	"descripcion": "el menu ejecutivo viene con entrada, plato principal, postre y una bebida",
+        	"precio": "100"
+        }
+    },
+    "Bebidas": { 
+        "bebida": {
+        	"nombre": "Coca Cola",
+        	"descripcion": "500ml",
+        	"precio": "25"
+        }
+        "bebida": {
+        	"nombre": "Cerveza",
+        	"descripcion": "1l",
+        	"precio": "45"
+        }	
+    },
+    "Entradas": {
+        "entrada": {
+        	"nombre": "matambre",
+        	"descripcion": "matambre acompañado con ensalada rusa",
+        	"precio": "20"
+        }
+    },
+    "Platos Principales": {
+    	"plato": {
+        	"nombre": "Milanesa a caballo",
+        	"descripcion": "milanesa de ternera/pollo con huevo frito",
+        	"precio": "50"
+        }
+    },
+    "Postres": {
+    	"postre": {
+        	"nombre": "Postre helado",
+        	"descripcion": "Dos bochas de helado bañados en salsa de chocolate/caramelo",
+        	"precio": "30"
+        }
+    },
+    "Guarniciones": {
+      "guarnicion": {
+        	"nombre": "Ensalada mixta",
+        	"descripcion": "ensalada de tomate y lechuga",
+        	"precio": "20"
+        }
+    }
+}}

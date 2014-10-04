@@ -19,5 +19,16 @@ public class Carta {
 	public void setRestaurant(String restaurant) {
 		this.restaurant = restaurant;
 	}
+
+	public List<ItemCarta> getCarta() {
+		return carta;
+	}
+
+	public void setCarta(List<ItemCarta> carta) {
+		this.carta = carta;
+	}
 	
+	public void agregarItem(ItemCarta item){
+		carta.add(item);
+	}
 }
